@@ -28,10 +28,10 @@ An example for the Region 4 reference case can be found as Processed_Ref_AEOEner
 **Step 5:** <br />
 Use generation_water.R to estimate regional or national electricity generation, water consumption, and water withdrawal for generation types from 2022 to 2050. <br />
 <br />
-This script uses the dataset developed in Step 4, the fleet share, Water_Consumption_Factors.xlxs, and Water_Withdrawal_Factors.xlxs by relating the electricity generation <br />
+This script uses the dataset developed in Step 4, the fleet share, Water_Consumption_Factors.xlxs, and Water_Withdrawal_Factors.xlxs by relating the electricity generation
 type to the fleet share precentage based on generation type and cooling technology, then applys water consumption and water withdrawal factors. <br />
 <br />
-The water withdrawal and consumption factors were taken from two literature papers: http://dx.doi.org/10.1021/acs.est.6b00008 and <br />
+The water withdrawal and consumption factors were taken from two literature papers: http://dx.doi.org/10.1021/acs.est.6b00008 and
 http://dx.doi.org/10.1088/1748-9326/7/4/045802 <br />
 <br />
 This script also assumes all once-through cooling systems will be phased out by 2040 and replaced with wet cooling towers. <br />
