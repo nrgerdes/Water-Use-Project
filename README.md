@@ -37,7 +37,7 @@ http://dx.doi.org/10.1088/1748-9326/7/4/045802 <br />
 This script also assumes all once-through cooling systems will be phased out by 2040 and replaced with wet cooling towers. <br />
 <br />
 **Step 5a:** <br />
-Use generation_water_ref_alt_comparison.R to estimate national electricity generation, water consumption, and withdrawal for generation types from 2024 to 2050
+Use generation_water_ref_alt_comparison_V2.R to estimate national electricity generation, water consumption, and withdrawal for generation types and totals from 2024 to 2050
 for alternative Low- and High-ZCT cases compared against the reference case. <br />
 <br />
 This script uses Table 8 from https://www.eia.gov/outlooks/aeo/tables_side_xls.php. Similar to Step 4, this data needs to be processed. The processed datasets can be found
